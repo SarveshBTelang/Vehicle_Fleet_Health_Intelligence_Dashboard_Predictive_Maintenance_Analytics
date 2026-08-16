@@ -4,6 +4,10 @@
   <img src="dashboard.png" style="max-width:100%; height:auto;" />
 </p>
 
+<a href="https://1drv.ms/x/c/b934651c9f7c899d/IQDncD-dxc4lQYE6a6FSHPXFAf7VrbxvEGy2V9u0PT_KCQ8">
+  <img src="https://img.shields.io/badge/Open%20in-Excel%20365%20Web-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" alt="Open in Microsoft Excel">
+</a>
+
 ---
 <h3>Overview</h3>
 
